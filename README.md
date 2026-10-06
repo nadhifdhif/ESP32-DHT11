@@ -1,1 +1,1 @@
-Author: Naufal Nadhif
+ESP32 and DHT11
